@@ -1,0 +1,82 @@
+# BASE UI
+ColorColumn: 'ebonyclaylight . .'
+# Conceal: ''
+# Cursor: ''
+# CursorIM: ''
+# CursorColumn: ''
+CursorLine: '. ebonyclaylight .'
+# CursorLineNr: ''
+# Directory: ''
+DiffAdd: '. steelgray .'
+# DiffChange: ''
+DiffDelete: '. bleachedcedar .'
+# DiffText: ''
+# ErrorMsg: ''
+# VertSplit: ''
+# Folded: ''
+# FoldColumn: ''
+SignColumn: '. steelgraytwo .'
+# IncSearch: ''
+LineNr: 'brightgray . .'
+# MatchParen: ''
+# ModeMsg: ''
+# MoreMsg: ''
+# NonText: ''
+Normal: 'steelgraytwo white .'
+PMenu: 'white steelgraytwo .'
+PMenuSel: 'steelgraytwo white .'
+# PmenuSbar: ''
+PmenuThumb: 'steelgraytwo white .'
+# Question: ''
+# Search: ''
+# SpecialKey: ''
+# SpellBad: ''
+# SpellLocal: ''
+# SpellCap: ''
+# SpellRare: ''
+StatusLine: 'steelgray gunpowder .'
+# StatusLineNC: ''
+TabLine: 'scarpaflow steelgray .'
+# TabLineFill: ''
+TabLineSel: 'steelgraytwo purple .'
+# Title: ''
+Visual: '. ebonyclaylight .'
+# VisualNOS: ''
+# WarningMsg: ''
+WildMenu: 'white steelgraytwo .'
+# BASE SYNTAX
+Comment: 'dolphin . i'
+Constant: 'carissma . .'
+String: 'purple . .' # Constant
+# Character: '' # Constant
+# Boolean: '' # Constant
+Number: 'carissma . .' # Constant
+# Float: '' # Constant
+Identifier: 'white . .'
+Function: 'carribeangreen . .' # Identifier
+# Statement: ''
+Conditional: 'redribbon . .' # Statement
+Repeat: 'redribbon . .' # Statement
+# Label: '' # Statement
+Operator: 'redribbon . .' # Statement
+Keyword: 'redribbon . .' # Statement
+# Exception: '' # Statement
+# PreProc: ''
+# Include: '' # PreProc
+# Define: '' # PreProc
+# Macro: '' # PreProc
+# PreCondit: '' # PreProc
+Type: 'redribbon . .'
+# StorageClass: '' # Type
+# Structure: '' # Type
+# Typedef: '' # Type
+# Special: ''
+# SpecialChar: '' # Special
+# Tag: '' # Special
+# Delimiter: '' # Special
+# SpecialComment: '' # Special
+# Debug: '' # Special
+# Underlined: ''
+# Ignore: ''
+Error: '. . i'
+# Todo: ''

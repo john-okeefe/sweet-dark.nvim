@@ -1,0 +1,10 @@
+name: 'sweet-dark'
+version: '0.0.1'
+license: 'MIT'
+author: "John O'Keefe"
+url: 'https://github.com/john-okeefe/sweet-dark.nvim'
+description: "A (Neo)Vim theme based on VSCode's Sweet Dark"
+colorschemes:
+  - name: 'sweet-dark'
+    background: 'dark'
+    palette: 'sweet-dark'
